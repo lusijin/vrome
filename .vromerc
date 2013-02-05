@@ -1,5 +1,6 @@
-map j 3j
-map k 3k
-map v <C-b>
 map d <M-d>
+map v <C-b>
+map <C-[> <C-p>
+map <C-]> gt
+map f <M-f>
 set searchengines+={"baidu":"http://www.baidu.com/s?wd={{keyword}}", "dict":"http://dict.youdao.com/search?q={{keyword}}"}
